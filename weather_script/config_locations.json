@@ -1,0 +1,14 @@
+{
+    "locations": [
+        {"lat": "54.6778816", "lon": "-5.9249199", "city": "Whiteabbey"},
+        {"lat": "52.6362", "lon": "-1.1331969", "city": "Leicester"},
+        {"lat": "51.456659", "lon": "-0.9696512", "city": "Reading"},
+        {"lat": "54.1775283", "lon": "-6.337506", "city": "Newry"},
+        {"lat": "51.4867", "lon": "0.2433", "city": "Purfleet"},
+        {"lat": "53.4071991", "lon": "-2.99168", "city": "Liverpool"},
+        {"lat": "53.3045372", "lon": "-1.1028469453936067", "city": "Worksop"},
+        {"lat": "55.9007", "lon": "-3.5181", "city": "Livingston"},
+        {"lat": "53.5227681", "lon": "-1.1335312", "city": "Doncaster"},
+        {"lat": "52.802742", "lon": "-1.629917", "city": "Burton-on-Trent"}
+    ]
+}
